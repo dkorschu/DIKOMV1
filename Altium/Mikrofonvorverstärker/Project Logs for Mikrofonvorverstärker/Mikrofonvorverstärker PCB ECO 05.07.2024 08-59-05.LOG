@@ -1,0 +1,7 @@
+Change Net Name : Old Net Name=NetC24_2 New Net Name=+Vin
+Change Net Name : Old Net Name=NetC35_2 New Net Name=-Vin
+Added Member To Class: ClassName=AUX_Stufe Member=Component S3 Schalter Buchsenleiste
+Added Room: Name=AUX_Stufe
+Added Room: Name=Linkwitz_Riley
+Added Room: Name=Mic_Eingangsstufe
+Added Room: Name=Parametrischer_EQ

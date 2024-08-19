@@ -1,0 +1,10 @@
+Added Component: Designator=R8(Connector x3)
+Add component (AddParameter): Name = "Value"; Value = "10k log"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetC1_1 Pin=R8-2
+Added Pin To Net: NetName=NetC1_1 Pin=R8-3
+Added Member To Class: ClassName=Mic_Eingangsstufe Member=Component R8 10k log
+Added Room: Name=AUX_Stufe
+Added Room: Name=Linkwitz_Riley
+Added Room: Name=Mic_Eingangsstufe
+Added Room: Name=Parametrischer_EQ

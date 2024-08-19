@@ -1,0 +1,74 @@
+Added Component: Designator=C43(0805)
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C44(0805)
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C45(0805)
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=J8(Connector x14)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SFH11-PBPC-D07-ST-BK/Sullins%20Connector%20Solutions/view-part/851415/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sullins Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SFH11-PBPC-D07-ST-BK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SFH11-PBPC-D07-ST-BK/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SFH11-PBPC-D07-ST-BK/Sullins%20Connector%20Solutions/view-part/851415/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R62(0805)
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R63(0805)
+Add component (AddParameter): Name = "Value"; Value = "220k"; VariantName = "[No Variations]"
+Added Component: Designator=R64(0805)
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R65(0805)
+Add component (AddParameter): Name = "Value"; Value = "220k"; VariantName = "[No Variations]"
+Added Component: Designator=R66(0805)
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R67(0805)
+Add component (AddParameter): Name = "Value"; Value = "220k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC43_1 Pin=C43-1
+Added Pin To Net: NetName=Aux01 Pin=C43-2
+Added Pin To Net: NetName=NetC44_1 Pin=C44-1
+Added Pin To Net: NetName=Aux02 Pin=C44-2
+Added Pin To Net: NetName=NetC45_1 Pin=C45-1
+Added Pin To Net: NetName=Out Pin=C45-2
+Added Pin To Net: NetName=Aux01 Pin=J8-1
+Added Pin To Net: NetName=Aux01 Pin=J8-2
+Added Pin To Net: NetName=Aux02 Pin=J8-3
+Added Pin To Net: NetName=Aux02 Pin=J8-4
+Added Pin To Net: NetName=Out Pin=J8-5
+Added Pin To Net: NetName=Out Pin=J8-6
+Added Pin To Net: NetName=NetC35_2 Pin=J8-7
+Added Pin To Net: NetName=NetC35_2 Pin=J8-8
+Added Pin To Net: NetName=Masse Pin=J8-9
+Added Pin To Net: NetName=Masse Pin=J8-10
+Added Pin To Net: NetName=Masse Pin=J8-11
+Added Pin To Net: NetName=Masse Pin=J8-12
+Added Pin To Net: NetName=NetC24_2 Pin=J8-13
+Added Pin To Net: NetName=NetC24_2 Pin=J8-14
+Added Pin To Net: NetName=NetR48_2 Pin=R62-1
+Added Pin To Net: NetName=NetC43_1 Pin=R62-2
+Added Pin To Net: NetName=GND Pin=R63-1
+Added Pin To Net: NetName=Aux01 Pin=R63-2
+Added Pin To Net: NetName=NetR53_2 Pin=R64-1
+Added Pin To Net: NetName=NetC44_1 Pin=R64-2
+Added Pin To Net: NetName=GND Pin=R65-1
+Added Pin To Net: NetName=Aux02 Pin=R65-2
+Added Pin To Net: NetName=NetR58_2 Pin=R66-1
+Added Pin To Net: NetName=NetC45_1 Pin=R66-2
+Added Pin To Net: NetName=GND Pin=R67-1
+Added Pin To Net: NetName=Out Pin=R67-2
+Added Member To Class: ClassName=AUX_Stufe Member=Component C43 100n
+Added Member To Class: ClassName=AUX_Stufe Member=Component C44 100n
+Added Member To Class: ClassName=AUX_Stufe Member=Component C45 100n
+Added Member To Class: ClassName=AUX_Stufe Member=Component J8 Connector x14
+Added Member To Class: ClassName=Linkwitz_Riley Member=Component R22 180k
+Added Member To Class: ClassName=AUX_Stufe Member=Component R62 470R
+Added Member To Class: ClassName=AUX_Stufe Member=Component R63 220k
+Added Member To Class: ClassName=AUX_Stufe Member=Component R64 470R
+Added Member To Class: ClassName=AUX_Stufe Member=Component R65 220k
+Added Member To Class: ClassName=AUX_Stufe Member=Component R66 470R
+Added Member To Class: ClassName=AUX_Stufe Member=Component R67 220k
+Added Room: Name=Linkwitz_Riley
+Added Room: Name=Mic_Eingangsstufe
+Added Room: Name=Parametrischer_EQ

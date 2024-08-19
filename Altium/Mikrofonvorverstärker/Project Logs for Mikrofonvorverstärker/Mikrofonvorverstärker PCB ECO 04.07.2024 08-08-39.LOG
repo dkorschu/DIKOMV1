@@ -1,0 +1,328 @@
+Change Component Comment : Designator=R27 Old Comment=10k log New Comment=47k lin
+Change Component Comment : Designator=R38 Old Comment=10k log New Comment=47k lin
+Change Component Comment : Designator=R49 Old Comment=10k log New Comment=50k log
+Change Component Comment : Designator=R54 Old Comment=10k log New Comment=50k log
+Change Component Comment : Designator=R59 Old Comment=10k log New Comment=50k log
+Change Component Comment : Designator=R32 Old Comment=10k log New Comment=100k log
+Change Component Comment : Designator=R33 Old Comment=10k log New Comment=100k log
+Change Component Comment : Designator=R35 Old Comment=10k log New Comment=100k log
+Change Component Comment : Designator=R37 Old Comment=10k log New Comment=100k log
+Change Component Comment : Designator=C4 Old Comment=47uF New Comment=1n
+Change Component Comment : Designator=C5 Old Comment=47uF New Comment=1n
+Change Component Comment : Designator=C7 Old Comment=47uF New Comment=1n
+Change Component Comment : Designator=C37 Old Comment=47uF New Comment=1u
+Change Component Comment : Designator=C35 Old Comment=47uF New Comment=2u
+Change Component Comment : Designator=C18 Old Comment=47uF New Comment=3.3n
+Change Component Comment : Designator=C3 Old Comment=47uF New Comment=4.7u
+Change Component Comment : Designator=C8 Old Comment=47uF New Comment=4.7u
+Change Component Comment : Designator=C21 Old Comment=47uF New Comment=15n
+Change Component Comment : Designator=C10 Old Comment=47uF New Comment=22n
+Change Component Comment : Designator=C11 Old Comment=47uF New Comment=22n
+Change Component Comment : Designator=C13 Old Comment=47uF New Comment=22n
+Change Component Comment : Designator=C14 Old Comment=47uF New Comment=22n
+Change Component Comment : Designator=C15 Old Comment=47uF New Comment=22n
+Change Component Comment : Designator=C16 Old Comment=47uF New Comment=22n
+Change Component Comment : Designator=C17 Old Comment=47uF New Comment=22n
+Change Component Comment : Designator=C22 Old Comment=47uF New Comment=22n
+Change Component Comment : Designator=C25 Old Comment=47uF New Comment=22n
+Change Component Comment : Designator=C26 Old Comment=47uF New Comment=22n
+Change Component Comment : Designator=C6 Old Comment=47uF New Comment=100n
+Change Component Comment : Designator=C12 Old Comment=47uF New Comment=100n
+Change Component Comment : Designator=C19 Old Comment=47uF New Comment=100n
+Change Component Comment : Designator=C23 Old Comment=47uF New Comment=100n
+Change Component Comment : Designator=C27 Old Comment=47uF New Comment=100n
+Change Component Comment : Designator=C28 Old Comment=47uF New Comment=100n
+Change Component Comment : Designator=C29 Old Comment=47uF New Comment=100n
+Change Component Comment : Designator=C30 Old Comment=47uF New Comment=100n
+Change Component Comment : Designator=C31 Old Comment=47uF New Comment=100n
+Change Component Comment : Designator=C32 Old Comment=47uF New Comment=100n
+Change Component Comment : Designator=C33 Old Comment=47uF New Comment=100n
+Change Component Comment : Designator=C34 Old Comment=47uF New Comment=100n
+Change Component Comment : Designator=C36 Old Comment=47uF New Comment=100n
+Change Component Comment : Designator=C38 Old Comment=47uF New Comment=100n
+Change Component Comment : Designator=C39 Old Comment=47uF New Comment=100n
+Change Component Comment : Designator=C40 Old Comment=47uF New Comment=100n
+Change Component Comment : Designator=C41 Old Comment=47uF New Comment=100n
+Change Component Comment : Designator=C42 Old Comment=47uF New Comment=100n
+Change Component Comment : Designator=C43 Old Comment=47uF New Comment=100n
+Change Component Comment : Designator=C44 Old Comment=47uF New Comment=100n
+Change Component Comment : Designator=C45 Old Comment=47uF New Comment=100n
+Change Component Comment : Designator=C24 Old Comment=47uF New Comment=330n
+Change Component Comment : Designator=C20 Old Comment=47uF New Comment=470p
+Change Component Comment : Designator=R48 Old Comment=100k New Comment=1k
+Change Component Comment : Designator=R51 Old Comment=100k New Comment=1k
+Change Component Comment : Designator=R53 Old Comment=100k New Comment=1k
+Change Component Comment : Designator=R56 Old Comment=100k New Comment=1k
+Change Component Comment : Designator=R58 Old Comment=100k New Comment=1k
+Change Component Comment : Designator=R61 Old Comment=100k New Comment=1k
+Change Component Comment : Designator=R28 Old Comment=100k New Comment=2.2k
+Change Component Comment : Designator=R29 Old Comment=100k New Comment=2.2k
+Change Component Comment : Designator=R39 Old Comment=100k New Comment=2.2k
+Change Component Comment : Designator=R40 Old Comment=100k New Comment=2.2k
+Change Component Comment : Designator=R6 Old Comment=100k New Comment=4.7k
+Change Component Comment : Designator=R7 Old Comment=100k New Comment=4.7k
+Change Component Comment : Designator=R9 Old Comment=100k New Comment=4.7k
+Change Component Comment : Designator=R10 Old Comment=100k New Comment=4.7k
+Change Component Comment : Designator=R12 Old Comment=100k New Comment=4.7k
+Change Component Comment : Designator=R30 Old Comment=100k New Comment=6.8k
+Change Component Comment : Designator=R31 Old Comment=100k New Comment=6.8k
+Change Component Comment : Designator=R34 Old Comment=100k New Comment=6.8k
+Change Component Comment : Designator=R36 Old Comment=100k New Comment=6.8k
+Change Component Comment : Designator=R1 Old Comment=100k New Comment=7.5k
+Change Component Comment : Designator=R18 Old Comment=100k New Comment=7.5k
+Change Component Comment : Designator=R2 Old Comment=100k New Comment=10
+Change Component Comment : Designator=R3 Old Comment=100k New Comment=10
+Change Component Comment : Designator=R4 Old Comment=100k New Comment=10
+Change Component Comment : Designator=R15 Old Comment=100k New Comment=10
+Change Component Comment : Designator=R16 Old Comment=100k New Comment=10
+Change Component Comment : Designator=R17 Old Comment=100k New Comment=10
+Change Component Comment : Designator=R5 Old Comment=100k New Comment=27k
+Change Component Comment : Designator=R14 Old Comment=100k New Comment=27k
+Change Component Comment : Designator=R11 Old Comment=100k New Comment=47R
+Change Component Comment : Designator=R19 Old Comment=100k New Comment=180k
+Change Component Comment : Designator=R20 Old Comment=100k New Comment=180k
+Change Component Comment : Designator=R21 Old Comment=100k New Comment=180k
+Change Component Comment : Designator=R22 Old Comment=100k New Comment=180k
+Change Component Comment : Designator=R24 Old Comment=100k New Comment=180k
+Change Component Comment : Designator=R25 Old Comment=100k New Comment=180k
+Change Component Comment : Designator=R13 Old Comment=100k New Comment=220k
+Change Component Comment : Designator=R23 Old Comment=100k New Comment=220k
+Change Component Comment : Designator=R44 Old Comment=100k New Comment=220k
+Change Component Comment : Designator=R45 Old Comment=100k New Comment=220k
+Change Component Comment : Designator=R46 Old Comment=100k New Comment=220k
+Change Component Comment : Designator=R63 Old Comment=100k New Comment=220k
+Change Component Comment : Designator=R65 Old Comment=100k New Comment=220k
+Change Component Comment : Designator=R67 Old Comment=100k New Comment=220k
+Change Component Comment : Designator=R26 Old Comment=100k New Comment=270R
+Change Component Comment : Designator=R41 Old Comment=100k New Comment=270R
+Change Component Comment : Designator=R42 Old Comment=100k New Comment=270R
+Change Component Comment : Designator=R43 Old Comment=100k New Comment=270R
+Change Component Comment : Designator=R47 Old Comment=100k New Comment=470R
+Change Component Comment : Designator=R50 Old Comment=100k New Comment=470R
+Change Component Comment : Designator=R52 Old Comment=100k New Comment=470R
+Change Component Comment : Designator=R55 Old Comment=100k New Comment=470R
+Change Component Comment : Designator=R57 Old Comment=100k New Comment=470R
+Change Component Comment : Designator=R60 Old Comment=100k New Comment=470R
+Change Component Comment : Designator=R62 Old Comment=100k New Comment=470R
+Change Component Comment : Designator=R64 Old Comment=100k New Comment=470R
+Change Component Comment : Designator=R66 Old Comment=100k New Comment=470R
+Change Component Comment : Designator=C1 Old Comment=100uF New Comment=100u
+Change component parameters: Designator = "C1" ("C1"); Footprint = "4141 Kondensator"; UniqueID = "\GWDQXLCN" ("\GWDQXLCN")
+Change component parameters (AddParameter): Name = "Value"; Value = "100u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "0805"; UniqueID = "\YFUBGVYZ" ("\YFUBGVYZ")
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "0805"; UniqueID = "\YTKQZBDK" ("\YTKQZBDK")
+Change component parameters (AddParameter): Name = "Value"; Value = "1n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "0805"; UniqueID = "\YJGCNDIM" ("\YJGCNDIM")
+Change component parameters (AddParameter): Name = "Value"; Value = "1n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "0805"; UniqueID = "\ARQOSYOM" ("\ARQOSYOM")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "0805"; UniqueID = "\VNCSLNTK" ("\VNCSLNTK")
+Change component parameters (AddParameter): Name = "Value"; Value = "1n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "0805"; UniqueID = "\ABERYJGP" ("\ABERYJGP")
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "0805"; UniqueID = "\NMMZQJGI" ("\NMMZQJGI")
+Change component parameters (AddParameter): Name = "Value"; Value = "22n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "0805"; UniqueID = "\WYFNTGPW" ("\WYFNTGPW")
+Change component parameters (AddParameter): Name = "Value"; Value = "22n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "0805"; UniqueID = "\AUWWWBXJ" ("\AUWWWBXJ")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C13"); Footprint = "0805"; UniqueID = "\DZJIWKGU" ("\DZJIWKGU")
+Change component parameters (AddParameter): Name = "Value"; Value = "22n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "0805"; UniqueID = "\VWOLDAVA" ("\VWOLDAVA")
+Change component parameters (AddParameter): Name = "Value"; Value = "22n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15" ("C15"); Footprint = "0805"; UniqueID = "\EWJXVKRG" ("\EWJXVKRG")
+Change component parameters (AddParameter): Name = "Value"; Value = "22n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "0805"; UniqueID = "\VCVEZLZY" ("\VCVEZLZY")
+Change component parameters (AddParameter): Name = "Value"; Value = "22n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17" ("C17"); Footprint = "0805"; UniqueID = "\NPNSODUI" ("\NPNSODUI")
+Change component parameters (AddParameter): Name = "Value"; Value = "22n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "0805"; UniqueID = "\NGGQBRPV" ("\NGGQBRPV")
+Change component parameters (AddParameter): Name = "Value"; Value = "3.3n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19" ("C19"); Footprint = "0805"; UniqueID = "\NOZFKMTX" ("\NOZFKMTX")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20" ("C20"); Footprint = "0805"; UniqueID = "\GLAZVJWH" ("\GLAZVJWH")
+Change component parameters (AddParameter): Name = "Value"; Value = "470p"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21" ("C21"); Footprint = "0805"; UniqueID = "\FWVOASJP" ("\FWVOASJP")
+Change component parameters (AddParameter): Name = "Value"; Value = "15n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22" ("C22"); Footprint = "0805"; UniqueID = "\UUZRLWIZ" ("\UUZRLWIZ")
+Change component parameters (AddParameter): Name = "Value"; Value = "22n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23" ("C23"); Footprint = "0805"; UniqueID = "\YAFFCSPR" ("\YAFFCSPR")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24" ("C24"); Footprint = "0805"; UniqueID = "\UBVROBNX" ("\UBVROBNX")
+Change component parameters (AddParameter): Name = "Value"; Value = "330n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25" ("C25"); Footprint = "0805"; UniqueID = "\COKIXWGR" ("\COKIXWGR")
+Change component parameters (AddParameter): Name = "Value"; Value = "22n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C26" ("C26"); Footprint = "0805"; UniqueID = "\RRUHIZYW" ("\RRUHIZYW")
+Change component parameters (AddParameter): Name = "Value"; Value = "22n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C27" ("C27"); Footprint = "0805"; UniqueID = "\UEOXMEDM" ("\UEOXMEDM")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C28" ("C28"); Footprint = "0805"; UniqueID = "\ZYGLRYWI" ("\ZYGLRYWI")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C29" ("C29"); Footprint = "0805"; UniqueID = "\MOVBBGPB" ("\MOVBBGPB")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C30" ("C30"); Footprint = "0805"; UniqueID = "\KCJJQSAC" ("\KCJJQSAC")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C31" ("C31"); Footprint = "0805"; UniqueID = "\BMDJLNAG" ("\BMDJLNAG")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C32" ("C32"); Footprint = "0805"; UniqueID = "\SDAZGRUJ" ("\SDAZGRUJ")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C33" ("C33"); Footprint = "0805"; UniqueID = "\VSBVXJCD" ("\VSBVXJCD")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C34" ("C34"); Footprint = "0805"; UniqueID = "\OLWGRKVO" ("\OLWGRKVO")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C35" ("C35"); Footprint = "0805"; UniqueID = "\OXICEKZX" ("\OXICEKZX")
+Change component parameters (AddParameter): Name = "Value"; Value = "2u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C36" ("C36"); Footprint = "0805"; UniqueID = "\ONMNLIXV" ("\ONMNLIXV")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C37" ("C37"); Footprint = "0805"; UniqueID = "\KMNTVHST" ("\KMNTVHST")
+Change component parameters (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C38" ("C38"); Footprint = "0805"; UniqueID = "\KBVYEJWE" ("\KBVYEJWE")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C39" ("C39"); Footprint = "0805"; UniqueID = "\UNQUWUMA" ("\UNQUWUMA")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C40" ("C40"); Footprint = "0805"; UniqueID = "\OAYJJCNX" ("\OAYJJCNX")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C41" ("C41"); Footprint = "0805"; UniqueID = "\DKAHOSPL" ("\DKAHOSPL")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C42" ("C42"); Footprint = "0805"; UniqueID = "\QLYXUKKT" ("\QLYXUKKT")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C43" ("C43"); Footprint = "0805"; UniqueID = "\XRGAUCJN" ("\XRGAUCJN")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C44" ("C44"); Footprint = "0805"; UniqueID = "\STKYGZOP" ("\STKYGZOP")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C45" ("C45"); Footprint = "0805"; UniqueID = "\XFLRHTYJ" ("\XFLRHTYJ")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "0805"; UniqueID = "\QFQXVOFO" ("\QFQXVOFO")
+Change component parameters (AddParameter): Name = "Value"; Value = "7.5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "0805"; UniqueID = "\TSSWXELZ" ("\TSSWXELZ")
+Change component parameters (AddParameter): Name = "Value"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "0805"; UniqueID = "\RQCJDUBW" ("\RQCJDUBW")
+Change component parameters (AddParameter): Name = "Value"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "0805"; UniqueID = "\OYDVHKVV" ("\OYDVHKVV")
+Change component parameters (AddParameter): Name = "Value"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "0805"; UniqueID = "\DCXGYUHS" ("\DCXGYUHS")
+Change component parameters (AddParameter): Name = "Value"; Value = "27k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "0805"; UniqueID = "\YPKTVSCM" ("\YPKTVSCM")
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "0805"; UniqueID = "\ANEUHUWJ" ("\ANEUHUWJ")
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "0805"; UniqueID = "\SIBXNMTI" ("\SIBXNMTI")
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "0805"; UniqueID = "\UHFPFHKW" ("\UHFPFHKW")
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "0805"; UniqueID = "\XMALJSOJ" ("\XMALJSOJ")
+Change component parameters (AddParameter): Name = "Value"; Value = "47R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "0805"; UniqueID = "\YWLCSRFC" ("\YWLCSRFC")
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "0805"; UniqueID = "\BBVDDLAI" ("\BBVDDLAI")
+Change component parameters (AddParameter): Name = "Value"; Value = "220k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "0805"; UniqueID = "\UJFPLZZZ" ("\UJFPLZZZ")
+Change component parameters (AddParameter): Name = "Value"; Value = "27k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "0805"; UniqueID = "\GTJTLQSY" ("\GTJTLQSY")
+Change component parameters (AddParameter): Name = "Value"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R16"); Footprint = "0805"; UniqueID = "\CKFVYUQC" ("\CKFVYUQC")
+Change component parameters (AddParameter): Name = "Value"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17" ("R17"); Footprint = "0805"; UniqueID = "\PKCIFZBM" ("\PKCIFZBM")
+Change component parameters (AddParameter): Name = "Value"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18" ("R18"); Footprint = "0805"; UniqueID = "\UFRDIVEN" ("\UFRDIVEN")
+Change component parameters (AddParameter): Name = "Value"; Value = "7.5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19" ("R19"); Footprint = "0805"; UniqueID = "\ZXLUXUWK" ("\ZXLUXUWK")
+Change component parameters (AddParameter): Name = "Value"; Value = "180k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20" ("R20"); Footprint = "0805"; UniqueID = "\UXZGCMOI" ("\UXZGCMOI")
+Change component parameters (AddParameter): Name = "Value"; Value = "180k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21" ("R21"); Footprint = "0805"; UniqueID = "\DJZDAWHI" ("\DJZDAWHI")
+Change component parameters (AddParameter): Name = "Value"; Value = "180k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22" ("R22"); Footprint = "0805"; UniqueID = "\KVKFECPB" ("\KVKFECPB")
+Change component parameters (AddParameter): Name = "Value"; Value = "180k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23" ("R23"); Footprint = "0805"; UniqueID = "\ICQSTXUO" ("\ICQSTXUO")
+Change component parameters (AddParameter): Name = "Value"; Value = "220k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24" ("R24"); Footprint = "0805"; UniqueID = "\RWKKMCOH" ("\RWKKMCOH")
+Change component parameters (AddParameter): Name = "Value"; Value = "180k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25" ("R25"); Footprint = "0805"; UniqueID = "\ELGQBUMZ" ("\ELGQBUMZ")
+Change component parameters (AddParameter): Name = "Value"; Value = "180k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26" ("R26"); Footprint = "0805"; UniqueID = "\CPUYHOPP" ("\CPUYHOPP")
+Change component parameters (AddParameter): Name = "Value"; Value = "270R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R27" ("R27"); Footprint = "Connector x3"; UniqueID = "\BFULEBBN" ("\BFULEBBN")
+Change component parameters (AddParameter): Name = "Value"; Value = "47k lin"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R28" ("R28"); Footprint = "0805"; UniqueID = "\MJAGECHY" ("\MJAGECHY")
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R29" ("R29"); Footprint = "0805"; UniqueID = "\TJDVSSBS" ("\TJDVSSBS")
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30" ("R30"); Footprint = "0805"; UniqueID = "\EBDWMTAC" ("\EBDWMTAC")
+Change component parameters (AddParameter): Name = "Value"; Value = "6.8k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R31" ("R31"); Footprint = "0805"; UniqueID = "\KJCJQTAL" ("\KJCJQTAL")
+Change component parameters (AddParameter): Name = "Value"; Value = "6.8k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R32" ("R32"); Footprint = "Connector x3"; UniqueID = "\DJUAAKQI" ("\DJUAAKQI")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k log"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R33" ("R33"); Footprint = "Connector x3"; UniqueID = "\SOXBULLW" ("\SOXBULLW")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k log"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R34" ("R34"); Footprint = "0805"; UniqueID = "\VCBXJQJK" ("\VCBXJQJK")
+Change component parameters (AddParameter): Name = "Value"; Value = "6.8k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R35" ("R35"); Footprint = "Connector x3"; UniqueID = "\FILXKKJG" ("\FILXKKJG")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k log"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R36" ("R36"); Footprint = "0805"; UniqueID = "\YIZQJFOC" ("\YIZQJFOC")
+Change component parameters (AddParameter): Name = "Value"; Value = "6.8k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R37" ("R37"); Footprint = "Connector x3"; UniqueID = "\DZIUVAPQ" ("\DZIUVAPQ")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k log"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R38" ("R38"); Footprint = "Connector x3"; UniqueID = "\LPXKAALU" ("\LPXKAALU")
+Change component parameters (AddParameter): Name = "Value"; Value = "47k lin"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R39" ("R39"); Footprint = "0805"; UniqueID = "\HTETDXKT" ("\HTETDXKT")
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R40" ("R40"); Footprint = "0805"; UniqueID = "\XHXINBCE" ("\XHXINBCE")
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41" ("R41"); Footprint = "0805"; UniqueID = "\TQFDCCCH" ("\TQFDCCCH")
+Change component parameters (AddParameter): Name = "Value"; Value = "270R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42" ("R42"); Footprint = "0805"; UniqueID = "\PRXAEBER" ("\PRXAEBER")
+Change component parameters (AddParameter): Name = "Value"; Value = "270R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43" ("R43"); Footprint = "0805"; UniqueID = "\XWJMEDOB" ("\XWJMEDOB")
+Change component parameters (AddParameter): Name = "Value"; Value = "270R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R44" ("R44"); Footprint = "0805"; UniqueID = "\WAUBSJRT" ("\WAUBSJRT")
+Change component parameters (AddParameter): Name = "Value"; Value = "220k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R45" ("R45"); Footprint = "0805"; UniqueID = "\XRNZXNFH" ("\XRNZXNFH")
+Change component parameters (AddParameter): Name = "Value"; Value = "220k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R46" ("R46"); Footprint = "0805"; UniqueID = "\HVPFFDMW" ("\HVPFFDMW")
+Change component parameters (AddParameter): Name = "Value"; Value = "220k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R47" ("R47"); Footprint = "0805"; UniqueID = "\YGJCRGYS" ("\YGJCRGYS")
+Change component parameters (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R48" ("R48"); Footprint = "0805"; UniqueID = "\XXFTQLJZ" ("\XXFTQLJZ")
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R49" ("R49"); Footprint = "Connector x3"; UniqueID = "\ILBRKIWD" ("\ILBRKIWD")
+Change component parameters (AddParameter): Name = "Value"; Value = "50k log"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R50" ("R50"); Footprint = "0805"; UniqueID = "\HRVQPLNO" ("\HRVQPLNO")
+Change component parameters (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R51" ("R51"); Footprint = "0805"; UniqueID = "\RBOSAYMO" ("\RBOSAYMO")
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R52" ("R52"); Footprint = "0805"; UniqueID = "\UBHHFZOW" ("\UBHHFZOW")
+Change component parameters (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R53" ("R53"); Footprint = "0805"; UniqueID = "\SANCJUMC" ("\SANCJUMC")
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R54" ("R54"); Footprint = "Connector x3"; UniqueID = "\AOMJZYXB" ("\AOMJZYXB")
+Change component parameters (AddParameter): Name = "Value"; Value = "50k log"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R55" ("R55"); Footprint = "0805"; UniqueID = "\BABUPCSO" ("\BABUPCSO")
+Change component parameters (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R56" ("R56"); Footprint = "0805"; UniqueID = "\NXTRRDDR" ("\NXTRRDDR")
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R57" ("R57"); Footprint = "0805"; UniqueID = "\FEAIMGKZ" ("\FEAIMGKZ")
+Change component parameters (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R58" ("R58"); Footprint = "0805"; UniqueID = "\RMDQMHPF" ("\RMDQMHPF")
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R59" ("R59"); Footprint = "Connector x3"; UniqueID = "\SAZPZGFR" ("\SAZPZGFR")
+Change component parameters (AddParameter): Name = "Value"; Value = "50k log"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R60" ("R60"); Footprint = "0805"; UniqueID = "\SAZNMRVD" ("\SAZNMRVD")
+Change component parameters (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R61" ("R61"); Footprint = "0805"; UniqueID = "\XTSYGXOC" ("\XTSYGXOC")
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R62" ("R62"); Footprint = "0805"; UniqueID = "\OVRKSFIF" ("\OVRKSFIF")
+Change component parameters (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R63" ("R63"); Footprint = "0805"; UniqueID = "\NGYSBGIK" ("\NGYSBGIK")
+Change component parameters (AddParameter): Name = "Value"; Value = "220k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R64" ("R64"); Footprint = "0805"; UniqueID = "\XBUNHJOO" ("\XBUNHJOO")
+Change component parameters (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R65" ("R65"); Footprint = "0805"; UniqueID = "\RFVJBYKR" ("\RFVJBYKR")
+Change component parameters (AddParameter): Name = "Value"; Value = "220k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R66" ("R66"); Footprint = "0805"; UniqueID = "\SQEFSDXK" ("\SQEFSDXK")
+Change component parameters (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R67" ("R67"); Footprint = "0805"; UniqueID = "\VGGLPZIP" ("\VGGLPZIP")
+Change component parameters (AddParameter): Name = "Value"; Value = "220k"; VariantName = "[No Variations]"
+Added Room: Name=Mic_Eingangsstufe

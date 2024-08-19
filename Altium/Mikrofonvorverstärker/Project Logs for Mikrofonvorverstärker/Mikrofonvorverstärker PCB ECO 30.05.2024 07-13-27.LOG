@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NetJ6_02 Pin=J9-01
+Removed Member From Class: ClassName=Linkwitz_Riley Member=J9
+Added Pin To Net: NetName=NetJ6_02 Pin=R19-2

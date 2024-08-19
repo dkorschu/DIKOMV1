@@ -1,0 +1,773 @@
+Removed Pin From Net: NetName=NetC6_2 Pin=C6-2
+Removed Pin From Net: NetName=NetC12_2 Pin=C12-2
+Removed Pin From Net: NetName=Masse Pin=C22-1
+Removed Pin From Net: NetName=Masse Pin=C23-1
+Removed Pin From Net: NetName=Masse Pin=C38-1
+Removed Pin From Net: NetName=-18V Pin=C38-2
+Removed Pin From Net: NetName=Masse Pin=D2-1
+Removed Pin From Net: NetName=NetJ6_01 Pin=J6-01
+Removed Pin From Net: NetName=NetC15_2 Pin=J10-01
+Removed Pin From Net: NetName=NetC6_1 Pin=R15-2
+Removed Pin From Net: NetName=NetC6_1 Pin=R15-3
+Removed Pin From Net: NetName=NetC12_2 Pin=R22-2
+Removed Pin From Net: NetName=A05 Pin=R38-2
+Removed Pin From Net: NetName=Masse Pin=R41-3
+Removed Pin From Net: NetName=Masse Pin=R42-3
+Removed Pin From Net: NetName=Masse Pin=R43-3
+Removed Pin From Net: NetName=NetC24_2 Pin=R47-2
+Removed Pin From Net: NetName=Aux02 Pin=R49-2
+Removed Pin From Net: NetName=Out Pin=R50-2
+Removed Pin From Net: NetName=NetR47_1 Pin=R53-2
+Removed Pin From Net: NetName=Masse Pin=S1-1
+Removed Pin From Net: NetName=Masse Pin=S2-1
+Removed Pin From Net: NetName=Masse Pin=S3-1
+Removed Pin From Net: NetName=NetR47_1 Pin=S3-2
+Removed Pin From Net: NetName=NetC12_2 Pin=U1-10
+Removed Pin From Net: NetName=+18V Pin=U2-4
+Removed Pin From Net: NetName=A03 Pin=U2-5
+Removed Pin From Net: NetName=NetC18_1 Pin=U2-6
+Removed Pin From Net: NetName=NetC18_1 Pin=U2-7
+Removed Pin From Net: NetName=NetC20_2 Pin=U2-10
+Removed Pin From Net: NetName=-18V Pin=U2-11
+Removed Pin From Net: NetName=NetR28_2 Pin=U2-13
+Removed Pin From Net: NetName=NetJ4_02 Pin=U3-3
+Removed Pin From Net: NetName=A05 Pin=U3-5
+Removed Pin From Net: NetName=NetC19_2 Pin=U3-6
+Removed Pin From Net: NetName=NetC19_2 Pin=U3-7
+Removed Pin From Net: NetName=A06 Pin=U3-8
+Removed Pin From Net: NetName=A06 Pin=U3-9
+Removed Pin From Net: NetName=NetC21_1 Pin=U3-10
+Removed Pin From Net: NetName=A06 Pin=U3-12
+Removed Pin From Net: NetName=NetC11_2 Pin=U4-1
+Removed Pin From Net: NetName=NetC11_2 Pin=U4-2
+Removed Pin From Net: NetName=NetC15_2 Pin=U4-6
+Removed Pin From Net: NetName=NetC15_2 Pin=U4-7
+Removed Pin From Net: NetName=NetR47_1 Pin=U5-1
+Removed Pin From Net: NetName=+18V Pin=U5-4
+Removed Pin From Net: NetName=NetC23_2 Pin=U5-10
+Removed Pin From Net: NetName=-18V Pin=U5-11
+Removed Pin From Net: NetName=NetC24_2 Pin=U5-12
+Removed Pin From Net: NetName=Masse Pin=U6-2
+Removed Pin From Net: NetName=+18V Pin=U6-3
+Removed Pin From Net: NetName=Masse Pin=U7-2
+Removed Pin From Net: NetName=-18V Pin=U7-3
+Removed Member From Class: ClassName=AUX_Stufe Member=C22
+Removed Member From Class: ClassName=AUX_Stufe Member=C23
+Removed Member From Class: ClassName=AUX_Stufe Member=C24
+Removed Member From Class: ClassName=AUX_Stufe Member=C35
+Removed Member From Class: ClassName=AUX_Stufe Member=C36
+Removed Member From Class: ClassName=AUX_Stufe Member=C37
+Removed Member From Class: ClassName=AUX_Stufe Member=C38
+Removed Member From Class: ClassName=Mic_Eingangsstufe Member=D1
+Removed Member From Class: ClassName=Mic_Eingangsstufe Member=D2
+Removed Member From Class: ClassName=Parametrischer_EQ Member=J6
+Removed Member From Class: ClassName=AUX_Stufe Member=R42
+Removed Member From Class: ClassName=AUX_Stufe Member=R43
+Removed Member From Class: ClassName=AUX_Stufe Member=R45
+Removed Member From Class: ClassName=AUX_Stufe Member=R46
+Removed Member From Class: ClassName=AUX_Stufe Member=R49
+Removed Member From Class: ClassName=Linkwitz_Riley Member=R54
+Removed Member From Class: ClassName=Linkwitz_Riley Member=R55
+Removed Member From Class: ClassName=Linkwitz_Riley Member=U2
+Removed Member From Class: ClassName=Linkwitz_Riley Member=U4
+Removed Member From Class: ClassName=AUX_Stufe Member=U5
+Removed Member From Class: ClassName=AUX_Stufe Member=U6
+Removed Member From Class: ClassName=AUX_Stufe Member=U7
+Change Component Footprint: Designator=C6 Old Footprint=2626 Kondensator New Footprint=0805
+Change Component Footprint: Designator=U5 Old Footprint=DIP14 IC Socket New Footprint=TO220 Spannungsregler 78xx
+Change Component Footprint: Designator=U6 Old Footprint=TO220 Spannungsregler New Footprint=TO220 Spannungsregler 79xx
+Change Component Footprint: Designator=D1 Old Footprint=Z1SMA15 Z-Diode 15V New Footprint=1N4001 Diode
+Change Component Footprint: Designator=D2 Old Footprint=Z1SMA15 Z-Diode 15V New Footprint=1N4001 Diode
+Change Component Comment : Designator=R45 Old Comment=1k New Comment=100k
+Change Component Comment : Designator=R46 Old Comment=1k New Comment=100k
+Change Component Comment : Designator=R47 Old Comment=1k New Comment=100k
+Change Component Comment : Designator=R51 Old Comment=1k New Comment=100k
+Change Component Comment : Designator=R52 Old Comment=1k New Comment=100k
+Change Component Comment : Designator=R53 Old Comment=1k New Comment=100k
+Change Component Comment : Designator=C3 Old Comment=1n New Comment=47uF
+Change Component Comment : Designator=C4 Old Comment=1n New Comment=47uF
+Change Component Comment : Designator=C5 Old Comment=1n New Comment=47uF
+Change Component Comment : Designator=R28 Old Comment=2.2k New Comment=100k
+Change Component Comment : Designator=R29 Old Comment=2.2k New Comment=100k
+Change Component Comment : Designator=R39 Old Comment=2.2k New Comment=100k
+Change Component Comment : Designator=R40 Old Comment=2.2k New Comment=100k
+Change Component Comment : Designator=C18 Old Comment=3.3n New Comment=47uF
+Change Component Comment : Designator=R1 Old Comment=4.7k New Comment=100k
+Change Component Comment : Designator=R2 Old Comment=4.7k New Comment=100k
+Change Component Comment : Designator=R5 Old Comment=4.7k New Comment=100k
+Change Component Comment : Designator=R7 Old Comment=4.7k New Comment=100k
+Change Component Comment : Designator=R8 Old Comment=4.7k New Comment=100k
+Change Component Comment : Designator=C8 Old Comment=4.7u New Comment=47uF
+Change Component Comment : Designator=C9 Old Comment=4.7u New Comment=47uF
+Change Component Comment : Designator=R30 Old Comment=6.8k New Comment=100k
+Change Component Comment : Designator=R31 Old Comment=6.8k New Comment=100k
+Change Component Comment : Designator=R34 Old Comment=6.8k New Comment=100k
+Change Component Comment : Designator=R36 Old Comment=6.8k New Comment=100k
+Change Component Comment : Designator=R3 Old Comment=7.5k New Comment=100k
+Change Component Comment : Designator=R4 Old Comment=7.5k New Comment=100k
+Change Component Comment : Designator=R6 Old Comment=10 New Comment=100k
+Change Component Comment : Designator=R9 Old Comment=10 New Comment=100k
+Change Component Comment : Designator=R10 Old Comment=10 New Comment=100k
+Change Component Comment : Designator=R11 Old Comment=10 New Comment=100k
+Change Component Comment : Designator=R12 Old Comment=10 New Comment=100k
+Change Component Comment : Designator=R13 Old Comment=10 New Comment=100k
+Change Component Comment : Designator=R48 Old Comment=10k New Comment=100k
+Change Component Comment : Designator=R50 Old Comment=10k New Comment=100k
+Change Component Comment : Designator=C23 Old Comment=10n New Comment=47uF
+Change Component Comment : Designator=C24 Old Comment=10n New Comment=47uF
+Change Component Comment : Designator=C21 Old Comment=15n New Comment=47uF
+Change Component Comment : Designator=C10 Old Comment=22n New Comment=47uF
+Change Component Comment : Designator=C11 Old Comment=22n New Comment=47uF
+Change Component Comment : Designator=C12 Old Comment=22n New Comment=47uF
+Change Component Comment : Designator=C13 Old Comment=22n New Comment=47uF
+Change Component Comment : Designator=C14 Old Comment=22n New Comment=47uF
+Change Component Comment : Designator=C15 Old Comment=22n New Comment=47uF
+Change Component Comment : Designator=C16 Old Comment=22n New Comment=47uF
+Change Component Comment : Designator=C17 Old Comment=22n New Comment=47uF
+Change Component Comment : Designator=C39 Old Comment=22n New Comment=47uF
+Change Component Comment : Designator=C40 Old Comment=22n New Comment=47uF
+Change Component Comment : Designator=R16 Old Comment=27k New Comment=100k
+Change Component Comment : Designator=R17 Old Comment=27k New Comment=100k
+Change Component Comment : Designator=R14 Old Comment=47 New Comment=100k
+Change Component Comment : Designator=R27 Old Comment=47k lin New Comment=10k log
+Change Component Comment : Designator=R38 Old Comment=47k lin New Comment=10k log
+Change Component Comment : Designator=R32 Old Comment=100k log New Comment=10k log
+Change Component Comment : Designator=R33 Old Comment=100k log New Comment=10k log
+Change Component Comment : Designator=R35 Old Comment=100k log New Comment=10k log
+Change Component Comment : Designator=R37 Old Comment=100k log New Comment=10k log
+Change Component Comment : Designator=C19 Old Comment=100n New Comment=47uF
+Change Component Comment : Designator=C25 Old Comment=100n New Comment=47uF
+Change Component Comment : Designator=C26 Old Comment=100n New Comment=47uF
+Change Component Comment : Designator=C27 Old Comment=100n New Comment=47uF
+Change Component Comment : Designator=C28 Old Comment=100n New Comment=47uF
+Change Component Comment : Designator=C29 Old Comment=100n New Comment=47uF
+Change Component Comment : Designator=C30 Old Comment=100n New Comment=47uF
+Change Component Comment : Designator=C31 Old Comment=100n New Comment=47uF
+Change Component Comment : Designator=C32 Old Comment=100n New Comment=47uF
+Change Component Comment : Designator=C33 Old Comment=100n New Comment=47uF
+Change Component Comment : Designator=C34 Old Comment=100n New Comment=47uF
+Change Component Comment : Designator=C36 Old Comment=100n New Comment=47uF
+Change Component Comment : Designator=C38 Old Comment=100n New Comment=47uF
+Change Component Comment : Designator=C6 Old Comment=100u New Comment=47uF
+Change Component Comment : Designator=R20 Old Comment=180k New Comment=100k
+Change Component Comment : Designator=R22 Old Comment=180k New Comment=100k
+Change Component Comment : Designator=R24 Old Comment=180k New Comment=100k
+Change Component Comment : Designator=R26 Old Comment=180k New Comment=100k
+Change Component Comment : Designator=R54 Old Comment=180k New Comment=100k
+Change Component Comment : Designator=R55 Old Comment=180k New Comment=100k
+Change Component Comment : Designator=R19 Old Comment=270 New Comment=100k
+Change Component Comment : Designator=R21 Old Comment=270 New Comment=100k
+Change Component Comment : Designator=R23 Old Comment=270 New Comment=100k
+Change Component Comment : Designator=R25 Old Comment=270 New Comment=100k
+Change Component Comment : Designator=C35 Old Comment=330n New Comment=47uF
+Change Component Comment : Designator=C37 Old Comment=330n New Comment=47uF
+Change Component Comment : Designator=C20 Old Comment=470p New Comment=47uF
+Change Component Comment : Designator=U5 Old Comment=OPA4134UA New Comment=7818
+Change Component Comment : Designator=D1 Old Comment=Zener 15V New Comment=1N4001 Diode
+Change Component Comment : Designator=D2 Old Comment=Zener 15V New Comment=1N4001 Diode
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C9
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C4 NewDesignator=C7
+Change Component Designator: OldDesignator=C8 NewDesignator=C3
+Change Component Designator: OldDesignator=C9 NewDesignator=C8
+Change Component Designator: OldDesignator=C10 NewDesignator=C13
+Change Component Designator: OldDesignator=C11 NewDesignator=C17
+Change Component Designator: OldDesignator=C12 NewDesignator=C14
+Change Component Designator: OldDesignator=C13 NewDesignator=C26
+Change Component Designator: OldDesignator=C14 NewDesignator=C10
+Change Component Designator: OldDesignator=C16 NewDesignator=C11
+Change Component Designator: OldDesignator=C17 NewDesignator=C25
+Change Component Designator: OldDesignator=C25 NewDesignator=C27
+Change Component Designator: OldDesignator=C26 NewDesignator=C28
+Change Component Designator: OldDesignator=C27 NewDesignator=C29
+Change Component Designator: OldDesignator=C28 NewDesignator=C30
+Change Component Designator: OldDesignator=C29 NewDesignator=C31
+Change Component Designator: OldDesignator=C30 NewDesignator=C32
+Change Component Designator: OldDesignator=C31 NewDesignator=C33
+Change Component Designator: OldDesignator=C32 NewDesignator=C34
+Change Component Designator: OldDesignator=C33 NewDesignator=C39
+Change Component Designator: OldDesignator=C34 NewDesignator=C40
+Change Component Designator: OldDesignator=C39 NewDesignator=C22
+Change Component Designator: OldDesignator=C40 NewDesignator=C16
+Change Component Designator: OldDesignator=J2 NewDesignator=J8
+Change Component Designator: OldDesignator=J6 NewDesignator=J5
+Change Component Designator: OldDesignator=J7 NewDesignator=J2
+Change Component Designator: OldDesignator=J8 NewDesignator=J6
+Change Component Designator: OldDesignator=J10 NewDesignator=J7
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q3
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q4
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q2
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q6
+Change Component Designator: OldDesignator=Q5 NewDesignator=Q1
+Change Component Designator: OldDesignator=Q6 NewDesignator=Q5
+Change Component Designator: OldDesignator=R1 NewDesignator=R6
+Change Component Designator: OldDesignator=R2 NewDesignator=R12
+Change Component Designator: OldDesignator=R3 NewDesignator=R1
+Change Component Designator: OldDesignator=R4 NewDesignator=R18
+Change Component Designator: OldDesignator=R5 NewDesignator=R9
+Change Component Designator: OldDesignator=R6 NewDesignator=R2
+Change Component Designator: OldDesignator=R8 NewDesignator=R10
+Change Component Designator: OldDesignator=R9 NewDesignator=R15
+Change Component Designator: OldDesignator=R10 NewDesignator=R3
+Change Component Designator: OldDesignator=R11 NewDesignator=R16
+Change Component Designator: OldDesignator=R12 NewDesignator=R4
+Change Component Designator: OldDesignator=R13 NewDesignator=R17
+Change Component Designator: OldDesignator=R14 NewDesignator=R11
+Change Component Designator: OldDesignator=R15 NewDesignator=R8
+Change Component Designator: OldDesignator=R16 NewDesignator=R14
+Change Component Designator: OldDesignator=R17 NewDesignator=R5
+Change Component Designator: OldDesignator=R19 NewDesignator=R42
+Change Component Designator: OldDesignator=R20 NewDesignator=R19
+Change Component Designator: OldDesignator=R21 NewDesignator=R43
+Change Component Designator: OldDesignator=R22 NewDesignator=R21
+Change Component Designator: OldDesignator=R23 NewDesignator=R26
+Change Component Designator: OldDesignator=R24 NewDesignator=R20
+Change Component Designator: OldDesignator=R25 NewDesignator=R41
+Change Component Designator: OldDesignator=R26 NewDesignator=R22
+Change Component Designator: OldDesignator=R41 NewDesignator=R49
+Change Component Designator: OldDesignator=R54 NewDesignator=R24
+Change Component Designator: OldDesignator=R55 NewDesignator=R25
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Change component parameters: Designator = "C3" ("C4"); Footprint = "0805"; UniqueID = "\YTKQZBDK" ("\YTKQZBDK")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C7"); Footprint = "0805"; UniqueID = "\VNCSLNTK" ("\VNCSLNTK")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "0805"; UniqueID = "\YJGCNDIM" ("\YJGCNDIM")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C3"); Footprint = "0805"; UniqueID = "\YFUBGVYZ" ("\YFUBGVYZ")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C8"); Footprint = "0805"; UniqueID = "\ABERYJGP" ("\ABERYJGP")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C13"); Footprint = "0805"; UniqueID = "\DZJIWKGU" ("\DZJIWKGU")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C17"); Footprint = "0805"; UniqueID = "\NPNSODUI" ("\NPNSODUI")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C14"); Footprint = "0805"; UniqueID = "\VWOLDAVA" ("\VWOLDAVA")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C26"); Footprint = "0805"; UniqueID = "\RRUHIZYW" ("\RRUHIZYW")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C10"); Footprint = "0805"; UniqueID = "\NMMZQJGI" ("\NMMZQJGI")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15" ("C15"); Footprint = "0805"; UniqueID = "\EWJXVKRG" ("\EWJXVKRG")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C11"); Footprint = "0805"; UniqueID = "\WYFNTGPW" ("\WYFNTGPW")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17" ("C25"); Footprint = "0805"; UniqueID = "\COKIXWGR" ("\COKIXWGR")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "0805"; UniqueID = "\NGGQBRPV" ("\NGGQBRPV")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19" ("C19"); Footprint = "0805"; UniqueID = "\NOZFKMTX" ("\NOZFKMTX")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20" ("C20"); Footprint = "0805"; UniqueID = "\GLAZVJWH" ("\GLAZVJWH")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21" ("C21"); Footprint = "0805"; UniqueID = "\FWVOASJP" ("\FWVOASJP")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23" ("C23"); Footprint = "0805"; UniqueID = "\YAFFCSPR" ("\YAFFCSPR")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24" ("C24"); Footprint = "0805"; UniqueID = "\UBVROBNX" ("\UBVROBNX")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25" ("C27"); Footprint = "0805"; UniqueID = "\UEOXMEDM" ("\UEOXMEDM")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C26" ("C28"); Footprint = "0805"; UniqueID = "\ZYGLRYWI" ("\ZYGLRYWI")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C27" ("C29"); Footprint = "0805"; UniqueID = "\MOVBBGPB" ("\MOVBBGPB")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C28" ("C30"); Footprint = "0805"; UniqueID = "\KCJJQSAC" ("\KCJJQSAC")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C29" ("C31"); Footprint = "0805"; UniqueID = "\BMDJLNAG" ("\BMDJLNAG")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C30" ("C32"); Footprint = "0805"; UniqueID = "\SDAZGRUJ" ("\SDAZGRUJ")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C31" ("C33"); Footprint = "0805"; UniqueID = "\VSBVXJCD" ("\VSBVXJCD")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C32" ("C34"); Footprint = "0805"; UniqueID = "\OLWGRKVO" ("\OLWGRKVO")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C33" ("C39"); Footprint = "0805"; UniqueID = "\UNQUWUMA" ("\UNQUWUMA")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C34" ("C40"); Footprint = "0805"; UniqueID = "\OAYJJCNX" ("\OAYJJCNX")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C35" ("C35"); Footprint = "0805"; UniqueID = "\OXICEKZX" ("\OXICEKZX")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C36" ("C36"); Footprint = "0805"; UniqueID = "\ONMNLIXV" ("\ONMNLIXV")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C37" ("C37"); Footprint = "0805"; UniqueID = "\KMNTVHST" ("\KMNTVHST")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C38" ("C38"); Footprint = "0805"; UniqueID = "\KBVYEJWE" ("\KBVYEJWE")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C39" ("C22"); Footprint = "0805"; UniqueID = "\UUZRLWIZ" ("\UUZRLWIZ")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C40" ("C16"); Footprint = "0805"; UniqueID = "\VCVEZLZY" ("\VCVEZLZY")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R6"); Footprint = "0805"; UniqueID = "\YPKTVSCM" ("\YPKTVSCM")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R12"); Footprint = "0805"; UniqueID = "\YWLCSRFC" ("\YWLCSRFC")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R1"); Footprint = "0805"; UniqueID = "\QFQXVOFO" ("\QFQXVOFO")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R18"); Footprint = "0805"; UniqueID = "\UFRDIVEN" ("\UFRDIVEN")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R9"); Footprint = "0805"; UniqueID = "\SIBXNMTI" ("\SIBXNMTI")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R2"); Footprint = "0805"; UniqueID = "\TSSWXELZ" ("\TSSWXELZ")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "0805"; UniqueID = "\ANEUHUWJ" ("\ANEUHUWJ")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R10"); Footprint = "0805"; UniqueID = "\UHFPFHKW" ("\UHFPFHKW")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R15"); Footprint = "0805"; UniqueID = "\GTJTLQSY" ("\GTJTLQSY")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R3"); Footprint = "0805"; UniqueID = "\RQCJDUBW" ("\RQCJDUBW")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R16"); Footprint = "0805"; UniqueID = "\CKFVYUQC" ("\CKFVYUQC")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R4"); Footprint = "0805"; UniqueID = "\OYDVHKVV" ("\OYDVHKVV")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R17"); Footprint = "0805"; UniqueID = "\PKCIFZBM" ("\PKCIFZBM")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R11"); Footprint = "0805"; UniqueID = "\XMALJSOJ" ("\XMALJSOJ")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R14"); Footprint = "0805"; UniqueID = "\UJFPLZZZ" ("\UJFPLZZZ")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17" ("R5"); Footprint = "0805"; UniqueID = "\DCXGYUHS" ("\DCXGYUHS")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19" ("R42"); Footprint = "0805"; UniqueID = "\PRXAEBER" ("\PRXAEBER")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20" ("R19"); Footprint = "0805"; UniqueID = "\ZXLUXUWK" ("\ZXLUXUWK")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21" ("R43"); Footprint = "0805"; UniqueID = "\XWJMEDOB" ("\XWJMEDOB")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22" ("R21"); Footprint = "0805"; UniqueID = "\DJZDAWHI" ("\DJZDAWHI")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23" ("R26"); Footprint = "0805"; UniqueID = "\CPUYHOPP" ("\CPUYHOPP")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24" ("R20"); Footprint = "0805"; UniqueID = "\UXZGCMOI" ("\UXZGCMOI")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25" ("R41"); Footprint = "0805"; UniqueID = "\TQFDCCCH" ("\TQFDCCCH")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26" ("R22"); Footprint = "0805"; UniqueID = "\KVKFECPB" ("\KVKFECPB")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R27" ("R27"); Footprint = "Connector x3"; UniqueID = "\BFULEBBN" ("\BFULEBBN")
+Change component parameters (AddParameter): Name = "Value"; Value = "10k log"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R28" ("R28"); Footprint = "0805"; UniqueID = "\MJAGECHY" ("\MJAGECHY")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R29" ("R29"); Footprint = "0805"; UniqueID = "\TJDVSSBS" ("\TJDVSSBS")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30" ("R30"); Footprint = "0805"; UniqueID = "\EBDWMTAC" ("\EBDWMTAC")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R31" ("R31"); Footprint = "0805"; UniqueID = "\KJCJQTAL" ("\KJCJQTAL")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R32" ("R32"); Footprint = "Connector x3"; UniqueID = "\DJUAAKQI" ("\DJUAAKQI")
+Change component parameters (AddParameter): Name = "Value"; Value = "10k log"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R33" ("R33"); Footprint = "Connector x3"; UniqueID = "\SOXBULLW" ("\SOXBULLW")
+Change component parameters (AddParameter): Name = "Value"; Value = "10k log"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R34" ("R34"); Footprint = "0805"; UniqueID = "\VCBXJQJK" ("\VCBXJQJK")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R35" ("R35"); Footprint = "Connector x3"; UniqueID = "\FILXKKJG" ("\FILXKKJG")
+Change component parameters (AddParameter): Name = "Value"; Value = "10k log"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R36" ("R36"); Footprint = "0805"; UniqueID = "\YIZQJFOC" ("\YIZQJFOC")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R37" ("R37"); Footprint = "Connector x3"; UniqueID = "\DZIUVAPQ" ("\DZIUVAPQ")
+Change component parameters (AddParameter): Name = "Value"; Value = "10k log"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R38" ("R38"); Footprint = "Connector x3"; UniqueID = "\LPXKAALU" ("\LPXKAALU")
+Change component parameters (AddParameter): Name = "Value"; Value = "10k log"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R39" ("R39"); Footprint = "0805"; UniqueID = "\HTETDXKT" ("\HTETDXKT")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R40" ("R40"); Footprint = "0805"; UniqueID = "\XHXINBCE" ("\XHXINBCE")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R45" ("R45"); Footprint = "0805"; UniqueID = "\XRNZXNFH" ("\XRNZXNFH")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R46" ("R46"); Footprint = "0805"; UniqueID = "\HVPFFDMW" ("\HVPFFDMW")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R47" ("R47"); Footprint = "0805"; UniqueID = "\YGJCRGYS" ("\YGJCRGYS")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R48" ("R48"); Footprint = "0805"; UniqueID = "\XXFTQLJZ" ("\XXFTQLJZ")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R50" ("R50"); Footprint = "0805"; UniqueID = "\HRVQPLNO" ("\HRVQPLNO")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R51" ("R51"); Footprint = "0805"; UniqueID = "\RBOSAYMO" ("\RBOSAYMO")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R52" ("R52"); Footprint = "0805"; UniqueID = "\UBHHFZOW" ("\UBHHFZOW")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R53" ("R53"); Footprint = "0805"; UniqueID = "\SANCJUMC" ("\SANCJUMC")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R54" ("R24"); Footprint = "0805"; UniqueID = "\RWKKMCOH" ("\RWKKMCOH")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R55" ("R25"); Footprint = "0805"; UniqueID = "\ELGQBUMZ" ("\ELGQBUMZ")
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1" ("D1"); Footprint = "Z1SMA15 Z-Diode 15V"; UniqueID = "\RLFJCOEA" ("\RLFJCOEA")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/1N4001-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/59-10.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IFSM Max (A)"; Value = "30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IO(rec) Max (A)"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "2-Pin, Axial Lead, Diameter 2.35 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL_LEAD-2-59-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Rev. U, 02/2005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Bulk Bag"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "1N4001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Standard Recovery"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VRRM Max (V)"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "Z1SMA15 Z-Diode 15V"; UniqueID = "\BLWVQHKA" ("\BLWVQHKA")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/1N4001-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/59-10.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IFSM Max (A)"; Value = "30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IO(rec) Max (A)"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "2-Pin, Axial Lead, Diameter 2.35 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL_LEAD-2-59-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Rev. U, 02/2005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Bulk Bag"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "1N4001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Standard Recovery"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VRRM Max (V)"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U5" ("U5"); Footprint = "DIP14 IC Socket"; UniqueID = "\PKMKZXTH" ("\PKMKZXTH")
+Change component parameters (AddParameter): Name = "Typ"; Value = "7818"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "2626 Kondensator"; UniqueID = "\ARQOSYOM" ("\ARQOSYOM")
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Added Component: Designator=C1(4141 Kondensator)
+Add component (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Added Component: Designator=C12(0805)
+Add component (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Added Component: Designator=C41(0805)
+Add component (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Added Component: Designator=C42(0805)
+Add component (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Added Component: Designator=D3(1N4001 Diode)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/1N4001-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/59-10.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IFSM Max (A)"; Value = "30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IO(rec) Max (A)"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin, Axial Lead, Diameter 2.35 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL_LEAD-2-59-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. U, 02/2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Bulk Bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "1N4001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Standard Recovery"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VRRM Max (V)"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=D4(1N4001 Diode)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/1N4001-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/59-10.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IFSM Max (A)"; Value = "30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IO(rec) Max (A)"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin, Axial Lead, Diameter 2.35 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL_LEAD-2-59-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. U, 02/2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Bulk Bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "1N4001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Standard Recovery"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VRRM Max (V)"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=R13(0805)
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R23(0805)
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R44(0805)
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R54(Connector x3)
+Add component (AddParameter): Name = "Value"; Value = "10k log"; VariantName = "[No Variations]"
+Added Component: Designator=R55(0805)
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R56(0805)
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R57(0805)
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R58(0805)
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R59(Connector x3)
+Add component (AddParameter): Name = "Value"; Value = "10k log"; VariantName = "[No Variations]"
+Added Component: Designator=R60(0805)
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R61(0805)
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=U3(DIP14 IC Socket)
+Add component (AddParameter): Name = "BW @ Acl(MHz)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=OPA4134&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ml/mpds177g/mpds177g.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SBOS058"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GBW(Typ)(MHz)"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iq per channel(Max)(mA)"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "14-Pin Plastic Small Outline, Body 8.65 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "D0014A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "4040047-5/M, 06/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "OPA4134UA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = "Audio Operational Amplifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vmax(V)"; Value = "36"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vmin(V)"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vn at Flatband(Typ)(nV/rtHz)"; Value = "8"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC6_2 Pin=C1-2
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC15_2 Pin=C23-1
+Added Pin To Net: NetName=-18V Pin=C37-2
+Added Pin To Net: NetName=A05 Pin=C38-2
+Added Pin To Net: NetName=NetJ6_01 Pin=C41-1
+Added Pin To Net: NetName=-18V Pin=C42-1
+Added Pin To Net: NetName=Masse Pin=C42-2
+Added Pin To Net: NetName=NetC24_2 Pin=D1-1
+Added Pin To Net: NetName=+18V Pin=D1-2
+Added Pin To Net: NetName=-18V Pin=D2-1
+Added Pin To Net: NetName=+18V Pin=D3-1
+Added Pin To Net: NetName=Masse Pin=D3-2
+Added Pin To Net: NetName=Masse Pin=D4-1
+Added Pin To Net: NetName=-18V Pin=D4-2
+Added Pin To Net: NetName=NetC12_2 Pin=J3-01
+Added Pin To Net: NetName=A05 Pin=J4-01
+Added Pin To Net: NetName=NetC23_2 Pin=J7-01
+Added Pin To Net: NetName=NetC24_2 Pin=J8-13
+Added Pin To Net: NetName=NetC24_2 Pin=J8-14
+Added Pin To Net: NetName=NetC6_1 Pin=R5-1
+Added Pin To Net: NetName=Masse Pin=R13-1
+Added Pin To Net: NetName=Masse Pin=R23-1
+Added Pin To Net: NetName=NetC12_2 Pin=R23-2
+Added Pin To Net: NetName=NetJ4_02 Pin=R38-1
+Added Pin To Net: NetName=A06 Pin=R38-2
+Added Pin To Net: NetName=NetJ4_02 Pin=R39-1
+Added Pin To Net: NetName=Masse Pin=R44-1
+Added Pin To Net: NetName=A05 Pin=R44-2
+Added Pin To Net: NetName=Masse Pin=R45-1
+Added Pin To Net: NetName=Masse Pin=R46-1
+Added Pin To Net: NetName=NetR47_1 Pin=R49-1
+Added Pin To Net: NetName=Masse Pin=R51-1
+Added Pin To Net: NetName=Aux02 Pin=R53-2
+Added Pin To Net: NetName=Masse Pin=R56-1
+Added Pin To Net: NetName=Out Pin=R58-2
+Added Pin To Net: NetName=Masse Pin=R61-1
+Added Pin To Net: NetName=NetR47_1 Pin=S1-3
+Added Pin To Net: NetName=NetC6_1 Pin=U1-1
+Added Pin To Net: NetName=NetC18_1 Pin=U2-1
+Added Pin To Net: NetName=NetC18_1 Pin=U2-2
+Added Pin To Net: NetName=A03 Pin=U2-3
+Added Pin To Net: NetName=NetC20_2 Pin=U2-5
+Added Pin To Net: NetName=NetR28_2 Pin=U2-6
+Added Pin To Net: NetName=NetC19_2 Pin=U2-8
+Added Pin To Net: NetName=NetC19_2 Pin=U2-9
+Added Pin To Net: NetName=A06 Pin=U2-10
+Added Pin To Net: NetName=NetC21_1 Pin=U2-12
+Added Pin To Net: NetName=NetC11_2 Pin=U3-1
+Added Pin To Net: NetName=NetC11_2 Pin=U3-2
+Added Pin To Net: NetName=+18V Pin=U3-4
+Added Pin To Net: NetName=NetC15_2 Pin=U3-6
+Added Pin To Net: NetName=NetC15_2 Pin=U3-7
+Added Pin To Net: NetName=NetR47_1 Pin=U3-8
+Added Pin To Net: NetName=-18V Pin=U3-11
+Added Pin To Net: NetName=Aux01 Pin=U3-14
+Added Pin To Net: NetName=Aux02 Pin=U4-7
+Added Pin To Net: NetName=Out Pin=U4-14
+Added Pin To Net: NetName=NetC24_2 Pin=U5-1
+Added Pin To Net: NetName=Masse Pin=U5-2
+Added Pin To Net: NetName=+18V Pin=U5-3
+Added Pin To Net: NetName=Masse Pin=U6-1
+Added Pin To Net: NetName=-18V Pin=U6-3
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetC2_1
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetC5_1
+Change Net Name : Old Net Name=NetC6_2 New Net Name=NetC1_2
+Change Net Name : Old Net Name=NetC8_1 New Net Name=NetC3_1
+Change Net Name : Old Net Name=NetC8_2 New Net Name=NetC3_2
+Change Net Name : Old Net Name=NetC9_1 New Net Name=NetC8_1
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetC8_2
+Change Net Name : Old Net Name=NetC10_1 New Net Name=NetC13_1
+Change Net Name : Old Net Name=NetC10_2 New Net Name=NetC13_2
+Change Net Name : Old Net Name=NetC11_1 New Net Name=NetC17_1
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC17_2
+Change Net Name : Old Net Name=NetC14_2 New Net Name=NetC10_2
+Change Net Name : Old Net Name=NetC20_2 New Net Name=A04
+Change Net Name : Old Net Name=NetC21_1 New Net Name=A07
+Change Net Name : Old Net Name=NetJ6_01 New Net Name=NetC41_1
+Change Net Name : Old Net Name=NetJ6_02 New Net Name=NetJ5_02
+Change Net Name : Old Net Name=NetQ1_1 New Net Name=NetQ3_1
+Change Net Name : Old Net Name=NetQ2_1 New Net Name=NetQ4_1
+Change Net Name : Old Net Name=NetQ3_1 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=NetQ4_1 New Net Name=NetQ6_1
+Change Net Name : Old Net Name=NetQ5_1 New Net Name=NetQ1_1
+Change Net Name : Old Net Name=NetQ6_1 New Net Name=NetQ5_1
+Change Net Name : Old Net Name=NetR4_2 New Net Name=NetR11_1
+Change Net Name : Old Net Name=NetR14_2 New Net Name=NetR8_1
+Change Net Name : Old Net Name=NetR22_1 New Net Name=NetR21_1
+Change Net Name : Old Net Name=NetR26_1 New Net Name=NetR22_1
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R8-2
+Added Pin To Net: NetName=NetC1_1 Pin=R8-3
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=J2-01
+Added Pin To Net: NetName=NetC6_2 Pin=R13-2
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=R19-2
+Added Pin To Net: NetName=NetC10_1 Pin=U1-6
+Added Pin To Net: NetName=NetC10_1 Pin=U1-7
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=R22-2
+Added Pin To Net: NetName=NetC11_2 Pin=U1-10
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=U1-13
+Added Pin To Net: NetName=NetC12_1 Pin=U1-14
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=R21-2
+Added Pin To Net: NetName=NetC14_2 Pin=U1-5
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetC25_2 Pin=C25-2
+Added Pin To Net: NetName=NetC25_2 Pin=R41-1
+Added Pin To Net: NetName=NetC25_2 Pin=U3-5
+Added Net: Name=NetC25_2
+Added Pin To Net: NetName=NetC26_2 Pin=C26-2
+Added Pin To Net: NetName=NetC26_2 Pin=R43-1
+Added Pin To Net: NetName=NetC26_2 Pin=U3-3
+Added Net: Name=NetC26_2
+Added Pin To Net: NetName=NetC35_2 Pin=C35-2
+Added Pin To Net: NetName=NetC35_2 Pin=D2-2
+Added Pin To Net: NetName=NetC35_2 Pin=J8-7
+Added Pin To Net: NetName=NetC35_2 Pin=J8-8
+Added Pin To Net: NetName=NetC35_2 Pin=U6-2
+Added Net: Name=NetC35_2
+Added Pin To Net: NetName=NetC38_1 Pin=C38-1
+Added Pin To Net: NetName=NetC38_1 Pin=R27-3
+Added Pin To Net: NetName=NetC38_1 Pin=R29-2
+Added Pin To Net: NetName=NetC38_1 Pin=U2-7
+Added Net: Name=NetC38_1
+Added Pin To Net: NetName=NetC41_2 Pin=C41-2
+Added Pin To Net: NetName=NetC41_2 Pin=J5-01
+Added Pin To Net: NetName=NetC41_2 Pin=R45-2
+Added Net: Name=NetC41_2
+Added Pin To Net: NetName=NetJ6_01 Pin=J6-01
+Added Pin To Net: NetName=NetJ6_01 Pin=R20-2
+Added Pin To Net: NetName=NetJ6_01 Pin=U1-8
+Added Pin To Net: NetName=NetJ6_01 Pin=U1-9
+Added Net: Name=NetJ6_01
+Added Pin To Net: NetName=NetJ6_02 Pin=J6-02
+Added Pin To Net: NetName=NetJ6_02 Pin=U1-12
+Added Net: Name=NetJ6_02
+Added Pin To Net: NetName=NetJ7_02 Pin=J7-02
+Added Pin To Net: NetName=NetJ7_02 Pin=U3-10
+Added Pin To Net: NetName=NetJ7_02 Pin=U4-3
+Added Pin To Net: NetName=NetJ7_02 Pin=U4-10
+Added Net: Name=NetJ7_02
+Added Pin To Net: NetName=NetR47_2 Pin=R47-2
+Added Pin To Net: NetName=NetR47_2 Pin=R48-1
+Added Pin To Net: NetName=NetR47_2 Pin=U3-13
+Added Net: Name=NetR47_2
+Added Pin To Net: NetName=NetR49_2 Pin=R49-2
+Added Pin To Net: NetName=NetR49_2 Pin=R49-3
+Added Pin To Net: NetName=NetR49_2 Pin=R50-1
+Added Pin To Net: NetName=NetR49_2 Pin=S1-2
+Added Pin To Net: NetName=NetR49_2 Pin=U3-9
+Added Net: Name=NetR49_2
+Added Pin To Net: NetName=NetR50_2 Pin=R50-2
+Added Pin To Net: NetName=NetR50_2 Pin=R51-2
+Added Pin To Net: NetName=NetR50_2 Pin=U3-12
+Added Net: Name=NetR50_2
+Added Pin To Net: NetName=NetR52_1 Pin=R52-1
+Added Pin To Net: NetName=NetR52_1 Pin=R54-1
+Added Pin To Net: NetName=NetR52_1 Pin=S2-3
+Added Pin To Net: NetName=NetR52_1 Pin=U4-1
+Added Net: Name=NetR52_1
+Added Pin To Net: NetName=NetR52_2 Pin=R52-2
+Added Pin To Net: NetName=NetR52_2 Pin=R53-1
+Added Pin To Net: NetName=NetR52_2 Pin=U4-6
+Added Net: Name=NetR52_2
+Added Pin To Net: NetName=NetR54_2 Pin=R54-2
+Added Pin To Net: NetName=NetR54_2 Pin=R54-3
+Added Pin To Net: NetName=NetR54_2 Pin=R55-1
+Added Pin To Net: NetName=NetR54_2 Pin=S2-2
+Added Pin To Net: NetName=NetR54_2 Pin=U4-2
+Added Net: Name=NetR54_2
+Added Pin To Net: NetName=NetR55_2 Pin=R55-2
+Added Pin To Net: NetName=NetR55_2 Pin=R56-2
+Added Pin To Net: NetName=NetR55_2 Pin=U4-5
+Added Net: Name=NetR55_2
+Added Pin To Net: NetName=NetR57_1 Pin=R57-1
+Added Pin To Net: NetName=NetR57_1 Pin=R59-1
+Added Pin To Net: NetName=NetR57_1 Pin=S3-3
+Added Pin To Net: NetName=NetR57_1 Pin=U4-8
+Added Net: Name=NetR57_1
+Added Pin To Net: NetName=NetR57_2 Pin=R57-2
+Added Pin To Net: NetName=NetR57_2 Pin=R58-1
+Added Pin To Net: NetName=NetR57_2 Pin=U4-13
+Added Net: Name=NetR57_2
+Added Pin To Net: NetName=NetR59_2 Pin=R59-2
+Added Pin To Net: NetName=NetR59_2 Pin=R59-3
+Added Pin To Net: NetName=NetR59_2 Pin=R60-1
+Added Pin To Net: NetName=NetR59_2 Pin=S3-2
+Added Pin To Net: NetName=NetR59_2 Pin=U4-9
+Added Net: Name=NetR59_2
+Added Pin To Net: NetName=NetR60_2 Pin=R60-2
+Added Pin To Net: NetName=NetR60_2 Pin=R61-2
+Added Pin To Net: NetName=NetR60_2 Pin=U4-12
+Added Net: Name=NetR60_2
+Added Member To Class: ClassName=Mic_Eingangsstufe Member=Component C7 47uF
+Added Member To Class: ClassName=Linkwitz_Riley Member=Component C23 47uF
+Added Member To Class: ClassName=Parametrischer_EQ Member=Component C24 47uF
+Added Member To Class: ClassName=Parametrischer_EQ Member=Component C35 47uF
+Added Member To Class: ClassName=Parametrischer_EQ Member=Component C36 47uF
+Added Member To Class: ClassName=Parametrischer_EQ Member=Component C37 47uF
+Added Member To Class: ClassName=Parametrischer_EQ Member=Component C38 47uF
+Added Member To Class: ClassName=Linkwitz_Riley Member=Component C39 47uF
+Added Member To Class: ClassName=Parametrischer_EQ Member=Component C41 47uF
+Added Member To Class: ClassName=Parametrischer_EQ Member=Component C42 47uF
+Added Member To Class: ClassName=Parametrischer_EQ Member=Component D1 1N4001 Diode
+Added Member To Class: ClassName=Parametrischer_EQ Member=Component D2 1N4001 Diode
+Added Member To Class: ClassName=Parametrischer_EQ Member=Component D3 1N4001 Diode
+Added Member To Class: ClassName=Parametrischer_EQ Member=Component D4 1N4001 Diode
+Added Member To Class: ClassName=Linkwitz_Riley Member=Component R41 100k
+Added Member To Class: ClassName=Linkwitz_Riley Member=Component R42 100k
+Added Member To Class: ClassName=Linkwitz_Riley Member=Component R43 100k
+Added Member To Class: ClassName=Parametrischer_EQ Member=Component R44 100k
+Added Member To Class: ClassName=Parametrischer_EQ Member=Component R45 100k
+Added Member To Class: ClassName=Linkwitz_Riley Member=Component R46 100k
+Added Member To Class: ClassName=AUX_Stufe Member=Component R54 10k log
+Added Member To Class: ClassName=AUX_Stufe Member=Component R55 100k
+Added Member To Class: ClassName=AUX_Stufe Member=Component R56 100k
+Added Member To Class: ClassName=AUX_Stufe Member=Component R57 100k
+Added Member To Class: ClassName=AUX_Stufe Member=Component R58 100k
+Added Member To Class: ClassName=AUX_Stufe Member=Component R59 10k log
+Added Member To Class: ClassName=AUX_Stufe Member=Component R60 100k
+Added Member To Class: ClassName=AUX_Stufe Member=Component R61 100k
+Added Member To Class: ClassName=Linkwitz_Riley Member=Component U3 OPA4134UA
+Added Member To Class: ClassName=AUX_Stufe Member=Component U4 OPA4134UA
+Added Member To Class: ClassName=Parametrischer_EQ Member=Component U5 7818
+Added Member To Class: ClassName=Parametrischer_EQ Member=Component U6 7818
+Added Room: Name=AUX_Stufe
+Added Room: Name=Linkwitz_Riley
+Added Room: Name=Mic_Eingangsstufe
+Added Room: Name=Parametrischer_EQ

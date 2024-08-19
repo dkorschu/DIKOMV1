@@ -1,0 +1,10 @@
+reihenfolge für beschriftung:
+oben links, unten links, oben rechts, unten rechts.
+Lage des Poties equivalent mit Zeiger der Uhr!
+
+Bsp: 12/12/12/12.jpg ---> alle Poties auf mittelstellung
+
+
+Matlab Dateien können lustiger weise noch ganz simpelbenannten werden und deshalb sind die Frequenzern mit den stellungen beschrieben worden
+
+TiefenRechts = x51212

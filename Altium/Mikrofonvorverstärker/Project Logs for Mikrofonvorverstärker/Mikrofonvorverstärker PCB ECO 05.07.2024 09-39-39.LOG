@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=Masse Pin=R63-1
+Added Pin To Net: NetName=Masse Pin=R65-1
+Added Pin To Net: NetName=Masse Pin=R67-1
+Added Room: Name=AUX_Stufe
+Added Room: Name=Linkwitz_Riley
+Added Room: Name=Mic_Eingangsstufe
+Added Room: Name=Parametrischer_EQ

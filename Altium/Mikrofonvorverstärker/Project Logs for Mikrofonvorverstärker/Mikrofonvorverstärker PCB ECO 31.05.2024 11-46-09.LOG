@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=D1 Old Footprint=Z1SMA15 Z-Diode 15V New Footprint=SOD523 Z-Diode 15 V
+Change Component Footprint: Designator=D2 Old Footprint=Z1SMA15 Z-Diode 15V New Footprint=SOD523 Z-Diode 15 V
+Added Room: Name=AUX_Stufe
+Added Room: Name=Linkwitz_Riley
+Added Room: Name=Mic_Eingangsstufe
+Added Room: Name=Parametrischer_EQ

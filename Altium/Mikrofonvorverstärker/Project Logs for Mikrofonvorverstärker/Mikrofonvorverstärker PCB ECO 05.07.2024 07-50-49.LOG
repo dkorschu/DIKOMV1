@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Masse Pin=C34-1
+Removed Pin From Net: NetName=-18V Pin=C34-2
+Removed Member From Class: ClassName=Linkwitz_Riley Member=C34
+Added Room: Name=AUX_Stufe
+Added Room: Name=Linkwitz_Riley
+Added Room: Name=Mic_Eingangsstufe
+Added Room: Name=Parametrischer_EQ

@@ -1,0 +1,23 @@
+Red Pitaya einstellungen :
+
+Start Frequenz			1Hz 
+Stop Frequenz			4kHz
+Erzeugtes Ausgangssignal	2kHz
+Amplitude			0.2V
+Fensterfunktion			FlatTop
+Dynamic Range			80dB
+Buffer size			16384
+
+
+Agilent 33120A/MSO7034A einstellungen :
+
+Span				5kHz
+Center				2.5kHz
+scale				20dB/
+Window				Flat Top
+FFT Sample Rate			10kSA/s
+Ereugtes Ausgangssignal		2kHz
+Amplitude			1Vpp
+
+
+

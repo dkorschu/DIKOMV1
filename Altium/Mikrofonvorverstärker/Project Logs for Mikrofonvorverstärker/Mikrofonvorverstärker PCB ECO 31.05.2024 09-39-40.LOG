@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=R1 Old Footprint=0805 WIDERSTAND New Footprint=0805
+Added Room: Name=AUX_Stufe
+Added Room: Name=Linkwitz_Riley
+Added Room: Name=Mic_Eingangsstufe
+Added Room: Name=Parametrischer_EQ

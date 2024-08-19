@@ -1,0 +1,82 @@
+Added Component: Designator=D1(1N4001 Diode)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/1N4001-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/59-10.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IFSM Max (A)"; Value = "30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IO(rec) Max (A)"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin, Axial Lead, Diameter 2.35 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL_LEAD-2-59-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. U, 02/2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Bulk Bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "1N4001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Standard Recovery"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VRRM Max (V)"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=D2(1N4001 Diode)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/1N4001-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/59-10.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IFSM Max (A)"; Value = "30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IO(rec) Max (A)"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin, Axial Lead, Diameter 2.35 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL_LEAD-2-59-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. U, 02/2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Bulk Bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "1N4001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Standard Recovery"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VRRM Max (V)"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(Buchsenleiste 3 Fach PNP TO92)
+Add component (AddParameter): Name = "Typ"; Value = "PNP"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(Buchsenleiste 3 Fach PNP TO92)
+Add component (AddParameter): Name = "Typ"; Value = "PNP"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(Buchsenleiste 3 Fach PNP TO92)
+Add component (AddParameter): Name = "Typ"; Value = "PNP"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(Buchsenleiste 3 Fach PNP TO92)
+Add component (AddParameter): Name = "Typ"; Value = "PNP"; VariantName = "[No Variations]"
+Added Component: Designator=Q5(Buchsenleiste 3 Fach PNP TO92)
+Add component (AddParameter): Name = "Typ"; Value = "PNP"; VariantName = "[No Variations]"
+Added Component: Designator=Q6(Buchsenleiste 3 Fach PNP TO92)
+Add component (AddParameter): Name = "Typ"; Value = "PNP"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC24_2 Pin=D1-1
+Added Pin To Net: NetName=+18V Pin=D1-2
+Added Pin To Net: NetName=-18V Pin=D2-1
+Added Pin To Net: NetName=NetC35_2 Pin=D2-2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetC3_2 Pin=Q1-2
+Added Pin To Net: NetName=NetC2_1 Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetC3_2 Pin=Q2-2
+Added Pin To Net: NetName=NetC2_1 Pin=Q2-3
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetC3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetC2_1 Pin=Q3-3
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetC8_2 Pin=Q4-2
+Added Pin To Net: NetName=NetC5_1 Pin=Q4-3
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=NetC8_2 Pin=Q5-2
+Added Pin To Net: NetName=NetC5_1 Pin=Q5-3
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=NetC8_2 Pin=Q6-2
+Added Pin To Net: NetName=NetC5_1 Pin=Q6-3
+Added Member To Class: ClassName=Parametrischer_EQ Member=Component D1 1N4001 Diode
+Added Member To Class: ClassName=Parametrischer_EQ Member=Component D2 1N4001 Diode
+Added Member To Class: ClassName=Mic_Eingangsstufe Member=Component Q1 PNP
+Added Member To Class: ClassName=Mic_Eingangsstufe Member=Component Q2 PNP
+Added Member To Class: ClassName=Mic_Eingangsstufe Member=Component Q3 PNP
+Added Member To Class: ClassName=Mic_Eingangsstufe Member=Component Q4 PNP
+Added Member To Class: ClassName=Mic_Eingangsstufe Member=Component Q5 PNP
+Added Member To Class: ClassName=Mic_Eingangsstufe Member=Component Q6 PNP

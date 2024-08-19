@@ -1,0 +1,6 @@
+Change Physical Footprint: Designator=C2 Old Footprint=2626 Kondensator New Footprint=2626 Kondensator
+Change Physical Footprint: Designator=J1 Old Footprint=Connector x3 New Footprint=Connector x3
+Change Physical Footprint: Designator=U1 Old Footprint=DIP14 IC Socket New Footprint=DIP14 IC Socket
+Change Physical Footprint: Designator=U2 Old Footprint=DIP14 IC Socket New Footprint=DIP14 IC Socket
+Change Physical Footprint: Designator=U3 Old Footprint=DIP14 IC Socket New Footprint=DIP14 IC Socket
+Change Physical Footprint: Designator=U4 Old Footprint=DIP14 IC Socket New Footprint=DIP14 IC Socket

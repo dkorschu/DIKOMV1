@@ -1,0 +1,73 @@
+Circuit: * Z:\Korschunov\Praxisphase\LTSpice\DiKo_Filter.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+r57: both pins shorted together -- ignoring.
+r59: both pins shorted together -- ignoring.
+r68: both pins shorted together -- ignoring.
+r70: both pins shorted together -- ignoring.
+r23: both pins shorted together -- ignoring.
+r25: both pins shorted together -- ignoring.
+r29: both pins shorted together -- ignoring.
+r31: both pins shorted together -- ignoring.
+WARNING: Node N031 is floating.
+WARNING: Node NC_04 is floating.
+WARNING: Node NC_05 is floating.
+
+WARNING: Less than two connections to node aux_1.  This node is used by r4.
+WARNING: Less than two connections to node aux_2.  This node is used by r8.
+WARNING: Less than two connections to node bbb.  This node is used by r12.
+WARNING: Less than two connections to node nc_04.  This node is used by c4.
+WARNING: Less than two connections to node nc_05.  This node is used by c6.
+WARNING: Less than two connections to node test.  This node is used by r34.
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+.step r_2=1000 r_1=1000
+.step r_2=26000 r_1=1000
+.step r_2=47000 r_1=1000
+.step r_2=1000 r_1=51000
+.step r_2=26000 r_1=51000
+.step r_2=47000 r_1=51000
+.step r_2=1000 r_1=100000
+.step r_2=26000 r_1=100000
+.step r_2=47000 r_1=100000
+
+Date: Fri Jun 14 14:50:15 2024
+Total elapsed time: 19.007 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2477
+traniter = 2166
+tranpoints = 1084
+accept = 1075
+rejected = 9
+matrix size = 159
+fillins = 409
+solver = Normal
+Avg thread counts: 3.0/3.1/1.4/1.2
+Matrix Compiler1: 37.15 KB object code size  6.1/2.9/[1.7]
+Matrix Compiler2: 25.80 KB object code size  2.7/2.4/[1.2]
+

@@ -1,0 +1,24 @@
+Added Pin To Net: NetName=A03 Pin=R27-2
+Added Pin To Net: NetName=A03 Pin=U2-5
+Added Net: Name=A03
+Added Pin To Net: NetName=A05 Pin=R38-2
+Added Pin To Net: NetName=A05 Pin=U3-5
+Added Net: Name=A05
+Added Pin To Net: NetName=Aux01 Pin=J2-1
+Added Pin To Net: NetName=Aux01 Pin=J2-2
+Added Pin To Net: NetName=Aux01 Pin=R48-2
+Added Net: Name=Aux01
+Added Pin To Net: NetName=Aux02 Pin=J2-3
+Added Pin To Net: NetName=Aux02 Pin=J2-4
+Added Pin To Net: NetName=Aux02 Pin=R49-2
+Added Net: Name=Aux02
+Added Pin To Net: NetName=Heiﬂ Pin=C1-2
+Added Pin To Net: NetName=Heiﬂ Pin=J1-2
+Added Net: Name=Heiﬂ
+Added Pin To Net: NetName=Kalt Pin=C2-2
+Added Pin To Net: NetName=Kalt Pin=J1-3
+Added Net: Name=Kalt
+Added Pin To Net: NetName=Out Pin=J2-5
+Added Pin To Net: NetName=Out Pin=J2-6
+Added Pin To Net: NetName=Out Pin=R50-2
+Added Net: Name=Out

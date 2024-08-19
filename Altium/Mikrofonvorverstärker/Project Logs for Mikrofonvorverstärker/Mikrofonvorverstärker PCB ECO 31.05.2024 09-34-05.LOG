@@ -1,0 +1,34 @@
+Change Physical Footprint: Designator=C1 Old Footprint=2626 KONDENSATOR New Footprint=2626 Kondensator
+Change Physical Footprint: Designator=C2 Old Footprint=2626 KONDENSATOR New Footprint=2626 Kondensator
+Change Physical Footprint: Designator=C6 Old Footprint=2626 KONDENSATOR New Footprint=2626 Kondensator
+Change Physical Footprint: Designator=D1 Old Footprint=SOD523 Z-DIODE 15 V New Footprint=SOD523 Z-Diode 15 V
+Change Physical Footprint: Designator=D2 Old Footprint=SOD523 Z-DIODE 15 V New Footprint=SOD523 Z-Diode 15 V
+Change Physical Footprint: Designator=J1 Old Footprint=CONNECTOR X3 New Footprint=Connector x3
+Change Physical Footprint: Designator=J2 Old Footprint=CONNECTOR X14 New Footprint=Connector x14
+Change Physical Footprint: Designator=J3 Old Footprint=CONNECTOR X2 New Footprint=Connector x2
+Change Physical Footprint: Designator=J4 Old Footprint=CONNECTOR X2 New Footprint=Connector x2
+Change Physical Footprint: Designator=J5 Old Footprint=CONNECTOR X2 New Footprint=Connector x2
+Change Physical Footprint: Designator=J6 Old Footprint=CONNECTOR X2 New Footprint=Connector x2
+Change Physical Footprint: Designator=J7 Old Footprint=CONNECTOR X2 New Footprint=Connector x2
+Change Physical Footprint: Designator=J8 Old Footprint=CONNECTOR X2 New Footprint=Connector x2
+Change Physical Footprint: Designator=J10 Old Footprint=CONNECTOR X2 New Footprint=Connector x2
+Change Physical Footprint: Designator=R15 Old Footprint=CONNECTOR X3 New Footprint=Connector x3
+Change Physical Footprint: Designator=R27 Old Footprint=CONNECTOR X3 New Footprint=Connector x3
+Change Physical Footprint: Designator=R32 Old Footprint=CONNECTOR X3 New Footprint=Connector x3
+Change Physical Footprint: Designator=R33 Old Footprint=CONNECTOR X3 New Footprint=Connector x3
+Change Physical Footprint: Designator=R35 Old Footprint=CONNECTOR X3 New Footprint=Connector x3
+Change Physical Footprint: Designator=R37 Old Footprint=CONNECTOR X3 New Footprint=Connector x3
+Change Physical Footprint: Designator=R38 Old Footprint=CONNECTOR X3 New Footprint=Connector x3
+Change Physical Footprint: Designator=R41 Old Footprint=CONNECTOR X3 New Footprint=Connector x3
+Change Physical Footprint: Designator=R42 Old Footprint=CONNECTOR X3 New Footprint=Connector x3
+Change Physical Footprint: Designator=R43 Old Footprint=CONNECTOR X3 New Footprint=Connector x3
+Change Physical Footprint: Designator=S1 Old Footprint=CONNECTOR X3 New Footprint=Connector x3
+Change Physical Footprint: Designator=S2 Old Footprint=CONNECTOR X3 New Footprint=Connector x3
+Change Physical Footprint: Designator=S3 Old Footprint=CONNECTOR X3 New Footprint=Connector x3
+Change Physical Footprint: Designator=U1 Old Footprint=DIP14 IC SOCKET New Footprint=DIP14 IC Socket
+Change Physical Footprint: Designator=U2 Old Footprint=DIP14 IC SOCKET New Footprint=DIP14 IC Socket
+Change Physical Footprint: Designator=U3 Old Footprint=DIP14 IC SOCKET New Footprint=DIP14 IC Socket
+Change Physical Footprint: Designator=U4 Old Footprint=DIP14 IC SOCKET New Footprint=DIP14 IC Socket
+Change Physical Footprint: Designator=U5 Old Footprint=DIP14 IC SOCKET New Footprint=DIP14 IC Socket
+Change Physical Footprint: Designator=U6 Old Footprint=TO220 SPANNUNGSREGLER New Footprint=TO220 Spannungsregler
+Change Physical Footprint: Designator=U7 Old Footprint=TO220 SPANNUNGSREGLER New Footprint=TO220 Spannungsregler
